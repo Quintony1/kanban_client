@@ -1,0 +1,21 @@
+Task to be added to the trello
+-- designing the login page
+-- implement a simple login auth
+-- designing the task page - the central part of the application
+-- designing the comments page - where users can comment on each task
+-- designing the Nav component
+-- designing the AddTask(the form input section) component
+-- implement the TasksContainer which handles the task on the board
+-- implement the comment action for each task board
+-- implement the drag and drop using React Beautiful DND
+-- implement the socket to emit dragged board as an event
+-- implement adding and retrieval of comments on each task.
+
+
+New things added to the project
+-- added comment section beecause that would give more communication room between users
+
+Resources used
+-- https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/
+-- https://www.freecodecamp.org/news/how-to-build-a-react-project-with-create-react-app-in-10-steps/
+-- https://www.freecodecamp.org/news/build-a-realtime-chat-app-with-react-express-socketio-and-harperdb/#what-is-socket-io
